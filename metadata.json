@@ -1,0 +1,6 @@
+{
+  "name": "AlfaConecta",
+  "description": "Plataforma PWA de gestión operativa y talento humano para Servicios Alfa.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
